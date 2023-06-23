@@ -1,6 +1,6 @@
 # only sort interger 
-def myList(n)
-return abs(n - 0)
+def myFunc(n)
+    return abs(n - 50)
 myList[12,56,887,100,59,60]
-
+myList.sort(key=myFunc)
 print(myList)
