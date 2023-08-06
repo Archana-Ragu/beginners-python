@@ -1,4 +1,4 @@
-# Python Program `:snake:`
+# Python Program :snake:
 ### Beginners Python 
 
 > Python for beginners
