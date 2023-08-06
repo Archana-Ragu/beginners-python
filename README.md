@@ -5,7 +5,7 @@
 * In Python Programming we use `.py` to save the source code
 * Python is a `interpreted language`
 * it is an `high-level language` programming
-* it is also an `general-purpose programming` language
+* it is also an `general-purpose programming` language also an `Backend langauge`
 
   ---
   
