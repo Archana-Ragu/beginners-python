@@ -16,6 +16,6 @@
                - Guido Van Rossum 👍
 
 say-py language
-    ```
-       print("hello Archana")
-    ```
+```
+print("hello Archana")
+```
