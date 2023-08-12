@@ -6,7 +6,7 @@
 * Python is a `interpreted language`
 * it is an `high-level language` programming
 * it is also an `general-purpose programming` language
-* An `Backend langauge`.
+* An `Backend langauge`
 
   ---
   
