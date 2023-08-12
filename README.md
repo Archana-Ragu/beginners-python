@@ -1,5 +1,5 @@
-# Python Program :snake:
-### Beginners Python (py)
+# Python Program 
+### Beginners Python (py :snake:)
 
 > Python for beginners :
 * In Python Programming we use `.py` to save the source code
