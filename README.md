@@ -2,7 +2,7 @@
 <h1>Python Program</h1>
 </div>
 
-### Beginners Python (py :snake:)
+# Beginners Python (py :snake:)
 
 > Python for beginners :
 * In Python Programming we use `.py` to save the source code
