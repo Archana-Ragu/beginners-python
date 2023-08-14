@@ -15,7 +15,7 @@
   
  
   - Python was introduced in `1980's` and was officialy launched in `1989`
-  - The name python
+  - The name python was named by the British Comedy Gruop
   - the father of the python language is :
     
                - Guido Van Rossum 👍
