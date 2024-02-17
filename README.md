@@ -1,5 +1,5 @@
 <div align="center">
-<h1>Python Program</h1>
+<h1>Python Program</h1
 </div>
 
 ## Beginners Python (py :snake:)
